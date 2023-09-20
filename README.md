@@ -2,6 +2,12 @@
 
 This Python script demonstrates a simple keylogger with a Tkinter GUI for setting the log file path. It records keystrokes and saves them to a log file. The log file's name is generated based on the current date and time.
 
+#
+
+![image](https://github.com/DDimov03/Keylogger/assets/110220663/2f7311f9-eedd-40de-afa0-5935f4908d72)
+
+#
+
 ## Features
 
 - Records keystrokes and saves them to a log file.
